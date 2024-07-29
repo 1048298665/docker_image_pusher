@@ -1,1 +1,3 @@
 jxxghp/moviepilot
+xiaoyaliu/alist
+ddsderek/wxchat
