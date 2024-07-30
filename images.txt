@@ -1,3 +1,4 @@
 jxxghp/moviepilot
 xiaoyaliu/alist
 ddsderek/wxchat
+mzz2017/v2raya
